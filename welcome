@@ -1,0 +1,9 @@
+public class IndianStateCensusAnalyser {
+
+	public static void main(String[] args) {
+
+      System.out.println("welcome to Day_29 Indian State Census Analyser program");
+	}
+  
+}
+
